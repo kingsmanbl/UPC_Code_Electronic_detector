@@ -18,4 +18,6 @@ Business Suit 1 0 0 No Yes
 Winter Coat 1 0 1 Yes Yes
 Socks 1 1 1 Yes No
 
-Through this project, I was able to recreate this electronic detector using DE1_SoC by utilizing K-maps and Boolean Algebra to optimize the design in SystemVerilog
+Through this project, I was able to recreate this electronic detector using DE1_SoC by utilizing K-maps and Boolean Algebra to optimize the design in SystemVerilog and build individual testbenches to simulate it on ModelSim in order to verify my design.
+
+If you want to check my design, you can check all the .sv files
